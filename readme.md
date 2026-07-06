@@ -6,7 +6,7 @@
 
 ## 🔗 Visualização
 
-- Link para visualização (substitua pelo seu link de deploy):
+- Link para visualização:
   https://felipemanchester.github.io/forest/
 
 ---
